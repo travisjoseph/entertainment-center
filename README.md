@@ -42,4 +42,7 @@ The last part of the URL is the movie ID. Copy the movie ID and add it to the `m
 movie_id_list = ["862-toy-story", "19995-avatar", "27205-inception",
                  "2062-ratatouille", "1584-school-of-rock",
                  "70160-the-hunger-games"]
+
 ```
+
+![alt text](https://www.themoviedb.org/static_cache/v4/logos/408x161-powered-by-rectangle-green-bb4301c10ddc749b4e79463811a68afebeae66ef43d17bcfd8ff0e60ded7ce99.png)
