@@ -3,7 +3,7 @@
 This script displays information about movies in an IMDB style.</br> 
 Using the class Movie from `media.py` to store information about a film - title, tag-line, trailer etc., it creates a web page with however many Movies we instaciate. 
 
-`fresh_tomatoes.py` was provided by Udacity for the first Front End Web Dev. project.
+`fresh_tomatoes.py` & `fresh_tomatoes.html` was provided by Udacity for the first Front End Web Dev. course project.
 
 Information on the movies is gathered through the TMDb API</br>
 **This project uses the TMDb API but is not endorsed or certified by TMDb.**
