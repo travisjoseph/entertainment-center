@@ -1,9 +1,4 @@
-# This script displays information about movies in and IMDB style way. Using
-# the class Movie to store information for a film, it creates a webpage with
-# however many Movies we instaciate. Movie information is gathered through The
-# Movie DB API.
-
-# "This product uses the TMDb API but is not endorsed or certified by TMDb."
+# "This project uses the TMDb API but is not endorsed or certified by TMDb."
 
 import media
 import fresh_tomatoes
